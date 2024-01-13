@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siranjeevi T</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+- 🔭 I’m currently working on [Terraform Project](https://github.com/SiranjeeviT/Terrafrom/blob/main/siran.tf)
+
 - 🌱 I’m currently learning **HTML5, CSS, Bash, Git, Github, Jenkins, Docker, Kubernetes, TerraForm, Ansible, AWS, Python**
 
 - 👨‍💻 All of my projects are available at [https://siranjeevit.github.io/Portfolio/](https://siranjeevit.github.io/Portfolio/)
